@@ -1,5 +1,30 @@
 # Idée projet : outil pour organiser les tâches ménagères dans une coloc
 
+A ajouter : 
+~~     Liste des collaborateurs ~~
+~~     Descriptif du projet ~~
+~~     Analyse concurentielle, état de l'art ~~
+    - Analyse de faisabilité
+    - Analyse fonctionelle
+        - Technologies utilisées
+        - Fonctionnalités planifiées/implémentées
+        - Meta : Commencer à **penser à la gestion du projet et à la répartition des tâches** (tâches par composants et non par domaines)
+    - Concept UI/UX, wireframes
+    - Description du MVP
+
+## Liste des collaborateurs
+Séverine BOCHATAY, Adrien COULON, Grégoire GAVIN
+
+## Descriptif du projet
+Créer une application qui permettent aux différents colocataires d'enregistrer de manière ludique les tâches ménagères effectuées dans l'appartement.
+
+## Analyse concurentielle, état de l'art
+Il n'existe à notre connaissance aucune application qui propose ce que nous souhaitons faire. L'idée nous vient d'abord d'un besoin personnel. Nous avons constaté l'inefficacité de simplement mettre en place un calendrier des tâches rigides et nous proposons donc une application qui permette un suivi des tâches, ainsi qu'une certains fléxibilité dans leur réalisation. Nous nous inspirons dans une certaine mesure de tricount qui permet de suivre l'état des comptes dans un groupe, mais nous remplaçons les dépenses par des tâches ménagères et les montant par un nombres de point.
+
+## Analyse de faisabilité
+Au vu des différentes recherches que nous avons faites quant aux potentialités de Meteor, il nous semble que notre projet est tout à fait réalisable.
+
+## Analyse fonctionnelle
 **User story**
 En tant qu'utilisatrice/utilisateur, je peux : 
 - Créer un compte
